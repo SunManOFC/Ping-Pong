@@ -1,0 +1,1 @@
+if (global.pontos_player1 >= 3) or (global.pontos_player2 >= 3) room_goto(rom_tela_inicial);
