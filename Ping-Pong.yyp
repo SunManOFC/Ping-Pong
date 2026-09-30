@@ -38,7 +38,6 @@
   "name":"Ping-Pong",
   "resources":[
     {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},},
-    {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
     {"id":{"name":"obj_botao_jogo","path":"objects/obj_botao_jogo/obj_botao_jogo.yy",},},
     {"id":{"name":"obj_botao_modo_de_jogo","path":"objects/obj_botao_modo_de_jogo/obj_botao_modo_de_jogo.yy",},},
     {"id":{"name":"obj_gol_direito","path":"objects/obj_gol_direito/obj_gol_direito.yy",},},
