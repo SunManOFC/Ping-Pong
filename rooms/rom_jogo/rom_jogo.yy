@@ -15,8 +15,6 @@
     {"name":"inst_31F6FC8C","path":"rooms/rom_jogo/rom_jogo.yy",},
     {"name":"inst_69D3CE62","path":"rooms/rom_jogo/rom_jogo.yy",},
     {"name":"inst_66DD3ACA","path":"rooms/rom_jogo/rom_jogo.yy",},
-    {"name":"inst_ACCB132","path":"rooms/rom_jogo/rom_jogo.yy",},
-    {"name":"inst_26283EDE","path":"rooms/rom_jogo/rom_jogo.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -30,8 +28,6 @@
         {"$GMRInstance":"v4","%Name":"inst_31F6FC8C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_31F6FC8C","objectId":{"name":"obj_gol_direito","path":"objects/obj_gol_direito/obj_gol_direito.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":6.0,"x":640.0,"y":-12.0,},
         {"$GMRInstance":"v4","%Name":"inst_69D3CE62","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_69D3CE62","objectId":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":288.0,"y":32.0,},
         {"$GMRInstance":"v4","%Name":"inst_66DD3ACA","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_66DD3ACA","objectId":{"name":"obj_jogo","path":"objects/obj_jogo/obj_jogo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":32.0,},
-        {"$GMRInstance":"v4","%Name":"inst_ACCB132","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_ACCB132","objectId":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":384.0,"y":192.0,},
-        {"$GMRInstance":"v4","%Name":"inst_26283EDE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_26283EDE","objectId":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":256.0,"y":192.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_5F35C68F1","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_5F35C68F1","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_fundo","path":"sprites/spr_fundo/spr_fundo.yy",},"x":0.0,"y":0.0,},
